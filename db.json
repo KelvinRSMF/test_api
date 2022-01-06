@@ -1,11 +1,9 @@
 {
-	"coupons":{
-		"store":{
-			"document": "98765432165487"
-		},
-		"coupon": {
-			"code": "321654987",
-			"value": 10.00
-		}
+	"store":{
+		"document": "98765432165487"
+	},
+	"coupon": {
+		"code": "321654987",
+		"value": 10.00
 	}
 }
